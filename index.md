@@ -1,3 +1,5 @@
+![image](https://github.com/Mike2518/Portfolio/blob/gh-pages/headshot.png)
+
 ## Michael Hayes
 
 # **ABOUT ME**
