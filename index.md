@@ -1,7 +1,8 @@
 ## Michael Hayes
 
-**About me**
+# **ABOUT ME**
 
+#### ***Allow me to introduce myself***
 I am currently a SharePoint Developer with 5 years of administration and development experience in SharePoint 2010-2016.I have 2 years of experience in HTML, CSS, and JS. Experience with multiple operating systems and experience with Data Management Systems. Years of experience with tactical systems and vehicles in the field such as the Buffalo, MMPV, Husky, LVSR Wrecker, HMMWV, LMTV, ASV and the Raven.
 
 # EXPERIENCE
