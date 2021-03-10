@@ -1,4 +1,4 @@
-## Welcome to my portfolio
+## Michael Hayes
 
 **About me**
 
