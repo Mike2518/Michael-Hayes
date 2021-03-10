@@ -16,7 +16,7 @@ effectively with over 200 users
 requirements and provide solutions to existing problems
 - Developed SharePoint training for end users, owners, and administrators
 
-## Education and Certs
+# Education and Certs
 - 35 Hours Computer Information System
 - A+ Certification
 - N+ Certification
@@ -26,7 +26,7 @@ requirements and provide solutions to existing problems
 - Blue Force Tracker (BFT) 1 & 2 Certified
 - Command Post of the Future (CPOF) Certified
 
-### Micro Learning
+# Micro Learning
 - HTML Certified
 - CSS Certified
 - Javascript Certified
