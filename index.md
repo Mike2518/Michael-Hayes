@@ -19,9 +19,9 @@ requirements and provide solutions to existing problems
 
 # EDUCATION AND CERTS
 - 35 credit Hours Computer Information System- *Columbia College*
-- A+ Certification- *comptia*(**expired**)
-- N+ Certification- *comptia*(**expired**)
-- Security+ Certification- *comptia*(**expired**)
+- A+ Certification- *comptia* (expired)
+- N+ Certification- *comptia* (expired)
+- Security+ Certification- *comptia* (expired)
 - SNAP Terminal Certified
 - Raven Operator Certified- *122 Hours logged flight time*
 - Blue Force Tracker (BFT) 1 & 2 Certified
